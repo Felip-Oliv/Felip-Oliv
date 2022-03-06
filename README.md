@@ -1,7 +1,7 @@
 ### Olá! Eu sou Felip-Oliv, aprendiz de feiticeiro. 🧙‍♂👨‍💻
 
 - 💻🐱‍👤 Atualmente trabalho como Técnico de apoio ao usuário de informatica <b>(HelpDesk)</b>.
-- 👨‍🎓 Estudante de Sistema de iformação <b>(Universidade Positivo)</b>.
+- 👨‍🎓 Estudante de Sistema de informação <b>(Universidade Positivo)</b>.
 - 🧐 Estou procurando desenvolver melhor minhas habilidades com programação.
 - 🐱‍👤 Contato: felipe_antunes_oliveira@outlook.com
 
