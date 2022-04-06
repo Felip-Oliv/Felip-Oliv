@@ -1,10 +1,5 @@
 ### Olá! Eu sou Felip-Oliv
 
-- 💻🐱‍👤 Atualmente trabalho como Técnico de apoio ao usuário de informatica <b>(HelpDesk)</b>.
-- 👨‍🎓 Estudante de Sistema de informação <b>(Universidade Positivo)</b>.
-- 🧐 Estou procurando desenvolver melhor minhas habilidades com programação.
-- 📧 Contato: felipe_antunes_oliveira@outlook.com
-
 <div align="center">
   <a href="https://github.com/Felip-Oliv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felip-Oliv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
