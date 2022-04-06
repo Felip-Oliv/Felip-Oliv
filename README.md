@@ -1,4 +1,4 @@
-### Olá! Eu sou Felip-Oliv, aprendiz de feiticeiro. 🧙‍♂👨‍💻
+### Olá! Eu sou Felip-Oliv
 
 - 💻🐱‍👤 Atualmente trabalho como Técnico de apoio ao usuário de informatica <b>(HelpDesk)</b>.
 - 👨‍🎓 Estudante de Sistema de informação <b>(Universidade Positivo)</b>.
