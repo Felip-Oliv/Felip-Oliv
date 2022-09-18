@@ -1,4 +1,4 @@
-### Olá! Eu sou Felip-Oliv
+### Olá! Eu sou Luiz Felipe A. Oliveira
 
 <div align="center">
   <a href="https://github.com/Felip-Oliv">
